@@ -4,10 +4,7 @@ channels:
 - menpo
 - defaults
 dependencies:
-- mock=2.0.0=py35_0
-- pbr=1.10.0=py35_0
 - protobuf=3.2.0=py35_0
-- six=1.10.0=py35_1
 - tensorflow=1.0.0=py35_0
 - cycler=0.10.0=py35_0
 - decorator=4.0.11=py35_0
@@ -20,10 +17,12 @@ dependencies:
 - libtiff=4.0.6=3
 - matplotlib=2.0.0=np112py35_0
 - mkl=2017.0.1=0
+- mock=2.0.0=py35_0
 - networkx=1.11=py35_0
 - numpy=1.12.0=py35_0
 - olefile=0.44=py35_0
 - openssl=1.0.2k=1
+- pbr=1.10.0=py35_0
 - pillow=4.0.0=py35_1
 - pip=9.0.1=py35_1
 - pyparsing=2.1.4=py35_0
@@ -35,9 +34,10 @@ dependencies:
 - readline=6.2=2
 - scikit-image=0.12.3=np112py35_1
 - scikit-learn=0.18.1=np112py35_1
-- scipy=0.18.1=np112py35_1
+- scipy=0.19.0=np112py35_0
 - setuptools=27.2.0=py35_0
 - sip=4.18=py35_0
+- six=1.10.0=py35_0
 - sqlite=3.13.0=0
 - tk=8.5.18=0
 - wheel=0.29.0=py35_0
